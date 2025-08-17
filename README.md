@@ -1,2 +1,3 @@
-# mux
-multiplexer
+MULTIPLEXERS
+   1)4X1
+   2)8X1
